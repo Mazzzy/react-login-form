@@ -8,3 +8,6 @@ Basic React and Typescript based login form with simple validation
   <img src="screenshot/login-page.png" alt="app-landing page"/>
   <br/>
 </p>
+
+### Demo 
+<a href="https://mazzzy.github.io/react-login-form/"> Login home </a>
