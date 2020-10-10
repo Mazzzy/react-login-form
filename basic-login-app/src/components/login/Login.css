@@ -87,3 +87,7 @@
     background-color: #86db9f;
     transform: none;
 }
+
+.custom-form .error-box {
+    color: red;
+}

@@ -96,7 +96,7 @@ const Login: FC = () => {
                     <a href="#">Create an account</a>
                     <button className="button">Log in </button>
                 </div>
-                <ul>
+                <ul className="error-box">
                     {errors?.email ? <li>{errors.email}</li> : ""}
                     {errors?.password ? <li>{errors.password}</li> : ""}
                 </ul>
