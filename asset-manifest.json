@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mazzzy/react-login-form/static/css/main.8f343eae.chunk.css",
-    "main.js": "/Mazzzy/react-login-form/static/js/main.a70ebca1.chunk.js",
-    "main.js.map": "/Mazzzy/react-login-form/static/js/main.a70ebca1.chunk.js.map",
-    "runtime-main.js": "/Mazzzy/react-login-form/static/js/runtime-main.d9f34c52.js",
-    "runtime-main.js.map": "/Mazzzy/react-login-form/static/js/runtime-main.d9f34c52.js.map",
-    "static/js/2.5a79ccfb.chunk.js": "/Mazzzy/react-login-form/static/js/2.5a79ccfb.chunk.js",
-    "static/js/2.5a79ccfb.chunk.js.map": "/Mazzzy/react-login-form/static/js/2.5a79ccfb.chunk.js.map",
-    "index.html": "/Mazzzy/react-login-form/index.html",
-    "precache-manifest.d0b4540d433bc7489b10851193a752af.js": "/Mazzzy/react-login-form/precache-manifest.d0b4540d433bc7489b10851193a752af.js",
-    "service-worker.js": "/Mazzzy/react-login-form/service-worker.js",
-    "static/css/main.8f343eae.chunk.css.map": "/Mazzzy/react-login-form/static/css/main.8f343eae.chunk.css.map",
-    "static/js/2.5a79ccfb.chunk.js.LICENSE.txt": "/Mazzzy/react-login-form/static/js/2.5a79ccfb.chunk.js.LICENSE.txt",
-    "static/media/dumbbell-logo.svg": "/Mazzzy/react-login-form/static/media/dumbbell-logo.d1459307.svg"
+    "main.css": "/react-login-form/static/css/main.8f343eae.chunk.css",
+    "main.js": "/react-login-form/static/js/main.a70ebca1.chunk.js",
+    "main.js.map": "/react-login-form/static/js/main.a70ebca1.chunk.js.map",
+    "runtime-main.js": "/react-login-form/static/js/runtime-main.616bbc77.js",
+    "runtime-main.js.map": "/react-login-form/static/js/runtime-main.616bbc77.js.map",
+    "static/js/2.5a79ccfb.chunk.js": "/react-login-form/static/js/2.5a79ccfb.chunk.js",
+    "static/js/2.5a79ccfb.chunk.js.map": "/react-login-form/static/js/2.5a79ccfb.chunk.js.map",
+    "index.html": "/react-login-form/index.html",
+    "precache-manifest.1895acb8fa2a67b8631a93adf99c5383.js": "/react-login-form/precache-manifest.1895acb8fa2a67b8631a93adf99c5383.js",
+    "service-worker.js": "/react-login-form/service-worker.js",
+    "static/css/main.8f343eae.chunk.css.map": "/react-login-form/static/css/main.8f343eae.chunk.css.map",
+    "static/js/2.5a79ccfb.chunk.js.LICENSE.txt": "/react-login-form/static/js/2.5a79ccfb.chunk.js.LICENSE.txt",
+    "static/media/dumbbell-logo.svg": "/react-login-form/static/media/dumbbell-logo.d1459307.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9f34c52.js",
+    "static/js/runtime-main.616bbc77.js",
     "static/js/2.5a79ccfb.chunk.js",
     "static/css/main.8f343eae.chunk.css",
     "static/js/main.a70ebca1.chunk.js"
