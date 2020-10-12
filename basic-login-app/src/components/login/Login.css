@@ -90,4 +90,8 @@
 
 .custom-form .error-box {
     color: red;
+    list-style: none;
+    padding: 0;
+    font-size: 0.75rem;
+    max-width: 260px;
 }
