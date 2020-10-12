@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-login-form/static/css/main.8f343eae.chunk.css",
+    "main.css": "/react-login-form/static/css/main.a8d32347.chunk.css",
     "main.js": "/react-login-form/static/js/main.a70ebca1.chunk.js",
     "main.js.map": "/react-login-form/static/js/main.a70ebca1.chunk.js.map",
     "runtime-main.js": "/react-login-form/static/js/runtime-main.616bbc77.js",
@@ -8,16 +8,16 @@
     "static/js/2.5a79ccfb.chunk.js": "/react-login-form/static/js/2.5a79ccfb.chunk.js",
     "static/js/2.5a79ccfb.chunk.js.map": "/react-login-form/static/js/2.5a79ccfb.chunk.js.map",
     "index.html": "/react-login-form/index.html",
-    "precache-manifest.1895acb8fa2a67b8631a93adf99c5383.js": "/react-login-form/precache-manifest.1895acb8fa2a67b8631a93adf99c5383.js",
+    "precache-manifest.4ccf8da0a9e37151685a6a3757526f54.js": "/react-login-form/precache-manifest.4ccf8da0a9e37151685a6a3757526f54.js",
     "service-worker.js": "/react-login-form/service-worker.js",
-    "static/css/main.8f343eae.chunk.css.map": "/react-login-form/static/css/main.8f343eae.chunk.css.map",
+    "static/css/main.a8d32347.chunk.css.map": "/react-login-form/static/css/main.a8d32347.chunk.css.map",
     "static/js/2.5a79ccfb.chunk.js.LICENSE.txt": "/react-login-form/static/js/2.5a79ccfb.chunk.js.LICENSE.txt",
     "static/media/dumbbell-logo.svg": "/react-login-form/static/media/dumbbell-logo.d1459307.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.616bbc77.js",
     "static/js/2.5a79ccfb.chunk.js",
-    "static/css/main.8f343eae.chunk.css",
+    "static/css/main.a8d32347.chunk.css",
     "static/js/main.a70ebca1.chunk.js"
   ]
 }
